@@ -1,0 +1,11 @@
+{
+  "farl_checkpoint": "/path/to/FaRL-Base-Patch16-LAIONFace20M-ep64.pth",
+  "model_checkpoints": {
+    "MetS": "/path/to/task_MetS_fold_5.pt",
+    "obesity": "/path/to/task_obesity_fold_5.pt",
+    "COE": "/path/to/task_COE_fold_5.pt",
+    "dyslipidemia": "/path/to/task_dyslipidemia_fold_5.pt",
+    "hypertension": "/path/to/task_hypertension_fold_5.pt",
+    "hyperglycemia": "/path/to/task_hyperglycemia_fold_5.pt"
+  }
+}
